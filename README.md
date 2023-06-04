@@ -12,5 +12,5 @@ https://apim.docs.wso2.com/en/latest/get-started/overview/
 # Sekolah Kampus
 https://www.youtube.com/playlist?list=PLea3rpAI1OjiyECqrWbZsFZkJzR9uESYj
 
-#L LMS WSO2
+# LMS WSO2
 https://lms.wso2.com/
