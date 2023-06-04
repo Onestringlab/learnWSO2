@@ -14,3 +14,6 @@ https://www.youtube.com/playlist?list=PLea3rpAI1OjiyECqrWbZsFZkJzR9uESYj
 
 # LMS WSO2
 https://lms.wso2.com/
+
+# API Manager Documentation 4.2.0
+https://apim.docs.wso2.com/en/latest/get-started/api-manager-quick-start-guide/
