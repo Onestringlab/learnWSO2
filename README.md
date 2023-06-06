@@ -20,3 +20,7 @@ https://apim.docs.wso2.com/en/latest/get-started/api-manager-quick-start-guide/
 
 # Belajar Docker
 https://www.youtube.com/watch?v=3_yxVjV88Zk&list=PL-CtdCApEFH9P46mnb4yJlQgX_IyQ0uF7
+
+# Running
+- api-manager.bat --run
+- https://localhost:9443/publisher
