@@ -1,4 +1,4 @@
-# There are links for learn DL on Youtube
+# There are links for learning DL on Youtube
 
 # Integration Corner
 https://www.youtube.com/playlist?list=PL9F8vRZXOGyE1GYz4_DQLcnl56Ra-JWdm
@@ -24,3 +24,6 @@ https://www.youtube.com/watch?v=3_yxVjV88Zk&list=PL-CtdCApEFH9P46mnb4yJlQgX_IyQ0
 # Running
 - api-manager.bat --run
 - https://localhost:9443/publisher
+
+# Enterprise Integrator
+- https://github.com/wso2/product-ei/releases/tag/v6.6.0
