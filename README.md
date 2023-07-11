@@ -17,6 +17,10 @@ https://www.youtube.com/playlist?list=PLea3rpAI1OjiyECqrWbZsFZkJzR9uESYj
 - https://apim.docs.wso2.com/en/4.0.0/get-started/overview/
 - https://www.youtube.com/watch?v=Azgshxg4kxo&list=PLp0TUr0bmhX4v-3dEjER62K6YZgUzZpkm
 
+# Micro Integrator
+Belajar membuat, menggabungkan API
+- https://ei.docs.wso2.com/en/latest/micro-integrator/overview/introduction/
+
 
 # API Manager Documentation 4.2.0
 https://apim.docs.wso2.com/en/latest/get-started/api-manager-quick-start-guide/
