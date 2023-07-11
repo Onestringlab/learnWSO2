@@ -16,6 +16,7 @@ https://www.youtube.com/playlist?list=PLea3rpAI1OjiyECqrWbZsFZkJzR9uESYj
 - https://lms.wso2.com/
 - https://apim.docs.wso2.com/en/4.0.0/get-started/overview/
 - https://www.youtube.com/watch?v=Azgshxg4kxo&list=PLp0TUr0bmhX4v-3dEjER62K6YZgUzZpkm
+- https://www.youtube.com/watch?v=-TicJqTjq2M&t=41s
 
 # Micro Integrator
 Belajar membuat, menggabungkan API
