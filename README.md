@@ -35,3 +35,6 @@ https://www.youtube.com/watch?v=3_yxVjV88Zk&list=PL-CtdCApEFH9P46mnb4yJlQgX_IyQ0
 
 # Enterprise Integrator
 - https://github.com/wso2/product-ei/releases/tag/v6.6.0
+
+# Dokumentasi SPLP Torche
+- https://drive.google.com/drive/folders/1bdaPwZ1nWr2jztMKdzuE1cdZq4oxDNgv
