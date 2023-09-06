@@ -39,5 +39,9 @@ https://www.youtube.com/watch?v=3_yxVjV88Zk&list=PL-CtdCApEFH9P46mnb4yJlQgX_IyQ0
 # Dokumentasi SPLP Torche
 - https://drive.google.com/drive/folders/1bdaPwZ1nWr2jztMKdzuE1cdZq4oxDNgv
 
-#Install Kafka di Docker
+# Install Kafka di Docker
+- https://kafka.apache.org/quickstart
+- bin/kafka-topics.sh --create --topic quickstart-events --bootstrap-server localhost:9092
+- bin/kafka-topics.sh --describe --topic quickstart-events --bootstrap-server localhost:9092
+- bin/kafka-topics.sh --list --bootstrap-server localhost:9092
 
