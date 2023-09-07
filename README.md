@@ -33,6 +33,9 @@ https://www.youtube.com/watch?v=3_yxVjV88Zk&list=PL-CtdCApEFH9P46mnb4yJlQgX_IyQ0
 - api-manager.bat --run
 - https://localhost:9443/publisher
 
+# Stream Integrator
+- https://ei.docs.wso2.com/en/latest/streaming-integrator/examples/tutorials-overview/
+
 # Enterprise Integrator
 - https://github.com/wso2/product-ei/releases/tag/v6.6.0
 
