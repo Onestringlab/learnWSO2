@@ -10,7 +10,7 @@ services:
     command: --default-authentication-plugin=mysql_native_password
     restart: always
     environment:
-      MYSQL_ROOT_PASSWORD: dikosonkan
+      MYSQL_ROOT_PASSWORD: dikosongkan
     ports:
       - 3316:3306
 
