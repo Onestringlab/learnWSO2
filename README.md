@@ -35,6 +35,7 @@ https://www.youtube.com/watch?v=3_yxVjV88Zk&list=PL-CtdCApEFH9P46mnb4yJlQgX_IyQ0
 
 # Stream Integrator
 - https://ei.docs.wso2.com/en/latest/streaming-integrator/examples/tutorials-overview/
+- https://ei.docs.wso2.com/en/latest/streaming-integrator/quick-start-guide/quick-start-guide/
 
 # Enterprise Integrator
 - https://github.com/wso2/product-ei/releases/tag/v6.6.0
